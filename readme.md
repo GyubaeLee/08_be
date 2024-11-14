@@ -8,4 +8,4 @@ Git파일 commit 하는 순서
 2. git config를 이용한 기본 설정
     - git config user.name "Gyubae Lee"
     - git config user.email "igyubae@gmail.com"
-
+    적용 확인 방법 git config --list
